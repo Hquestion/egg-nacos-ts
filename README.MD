@@ -1,5 +1,7 @@
 # egg-nacos-ts
 
+> Forked from [https://github.com/JeniTurtle/egg-nacos-ts](https://github.com/JeniTurtle/egg-nacos-ts)
+
 基于nacos-sdk-nodejs开发的nacos插件。cluster模式下支持单实例注册，以及通过配置自动注册和监听服务。
 
 #### 安装步骤：
