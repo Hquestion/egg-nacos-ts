@@ -4444,10 +4444,10 @@ mz@^2.7.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-nacos-config@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/nacos-config/download/nacos-config-2.0.0.tgz#cd7855ba1e5897cfaef2cc86bb7b7493e032c97c"
-  integrity sha1-zXhVuh5Yl8+u8syGu3t0k+AyyXw=
+nacos-config2@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/nacos-config2/-/nacos-config2-2.0.6.tgz#5e604d0422d10186c4b19aa7f2373ae634c01902"
+  integrity sha512-KjOo+r1FyiyArcgx5AHyLuvxauVQW63lNG59fMdiYKye5tQWqqo6UDqmUmm5+1LuCDbcp4g72SOpWBVrnEasUA==
   dependencies:
     cluster-client "^2.1.1"
     co-gather "^1.0.0"
@@ -4462,10 +4462,10 @@ nacos-config@^2.0.0:
     urllib "^2.29.1"
     utility "^1.14.0"
 
-nacos-naming@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/nacos-naming/download/nacos-naming-2.0.0.tgz#48de6c8a0644c5fa6a6aacc8e4bf35483250fdbc"
-  integrity sha1-SN5sigZExfpqaqzI5L81SDJQ/bw=
+nacos-naming2@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/nacos-naming2/-/nacos-naming2-2.0.6.tgz#2399a4e00568f7f260e1c9a27f96a649d32f7ab0"
+  integrity sha512-Dpu1NDveODe1Ns0NaJpvWO9IKGe1F2x8MDvCI8l142HmBKe/7TBefZHAd3DJVSf2MJr9gyKs1IWgBfNDd9O7Rg==
   dependencies:
     address "^1.1.0"
     mz-modules "^2.1.0"
@@ -4474,13 +4474,13 @@ nacos-naming@^2.0.0:
     utility "^1.16.1"
     uuid "^3.3.2"
 
-nacos@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/nacos/download/nacos-2.0.0.tgz#daeb39ac2a11e3ec1c1ce596f5cec1556f978009"
-  integrity sha1-2us5rCoR4+wcHOWW9c7BVW+XgAk=
+nacos2@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/nacos2/-/nacos2-2.0.7.tgz#0829b6fba321ddaf2bbe3023a4d78e6ebf2f8048"
+  integrity sha512-LBnwPCz+bjnpQZPAQJACa+a0YYHVQ15881Dn+Dg+QG7xk5umCq83nXpvKjzb5T1mdRvhQQUZ/SCnC26FThUo2A==
   dependencies:
-    nacos-config "^2.0.0"
-    nacos-naming "^2.0.0"
+    nacos-config2 "^2.0.6"
+    nacos-naming2 "^2.0.6"
 
 nan@^2.12.1:
   version "2.14.0"

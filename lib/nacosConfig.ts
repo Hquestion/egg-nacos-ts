@@ -1,6 +1,6 @@
 import * as assert from 'assert';
 import { Agent, Application } from 'egg';
-import { NacosConfigClient } from 'nacos';
+import { NacosConfigClient } from 'nacos2';
 import { ConfigEntity } from '../typings/interface';
 
 export default class NacosConfig {

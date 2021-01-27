@@ -1,4 +1,4 @@
-import { ClientOptions } from 'nacos';
+import { ClientOptions } from 'nacos2';
 
 export interface ProviderConfig {
   serviceName: string;
