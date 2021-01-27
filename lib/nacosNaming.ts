@@ -1,7 +1,7 @@
 import * as assert from 'assert';
 import { Agent } from 'egg';
 import { ProviderConfig, SubscriberConfig } from '../typings/interface';
-const { NacosNamingClient } = require('nacos');
+const { NacosNamingClient } = require('nacos2');
 
 export default class NacosNaming {
   private _nacosNamingClient;
