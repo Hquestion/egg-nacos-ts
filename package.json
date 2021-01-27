@@ -1,6 +1,6 @@
 {
   "name": "egg-nacos-ts2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nacos plugin for egg",
   "eggPlugin": {
     "name": "nacos"
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "egg": "^2.26.0",
-    "nacos2": "^2.0.0",
+    "nacos2": "^2.0.7",
     "reflect-metadata": "^0.1.13",
     "uuid": "^3.3.3"
   },
